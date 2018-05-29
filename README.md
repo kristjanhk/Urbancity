@@ -6,7 +6,7 @@ Tegemist on mänguga, mis töötab sarnaselt enamikuga rahakogumismängudest. M�
 Allalaadimised
 --------------
 
-Allalaadimiste alt leiab pakendatud exe Windowsile ning testiversiooni Androidile.
+Releases alt leiab pakendatud exe Windowsile ning testiversiooni Androidile.
 Teistel platvormidel jooksutamiseks on vajalik Pygame'i olemasolu ja soovitatavalt Python 3.x. 
 Python 2.7.x jaoks on olemas eraldi versioon, mis võib olla aeglasem.
 
